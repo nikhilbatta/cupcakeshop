@@ -1,0 +1,9 @@
+.flashy p {
+  color: red;
+  font-style: italic;
+}
+
+.best p {
+  color:blue;
+  font-style: oblique;
+}
